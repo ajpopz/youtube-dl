@@ -14,7 +14,7 @@
     "remote",
     "uploader"
   ],
-  "repository": "",
+  "repository": "https://github.com/ajpopz/youtube-dl.git",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
